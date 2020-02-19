@@ -1,0 +1,2 @@
+# eaGenel
+Denemeler
