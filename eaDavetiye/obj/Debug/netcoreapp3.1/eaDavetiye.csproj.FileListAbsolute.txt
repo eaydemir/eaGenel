@@ -1,0 +1,11 @@
+/Users/eaydemir/DevProjects/eaGenel/eaDavetiye/bin/Debug/netcoreapp3.1/eaDavetiye
+/Users/eaydemir/DevProjects/eaGenel/eaDavetiye/bin/Debug/netcoreapp3.1/eaDavetiye.deps.json
+/Users/eaydemir/DevProjects/eaGenel/eaDavetiye/bin/Debug/netcoreapp3.1/eaDavetiye.runtimeconfig.json
+/Users/eaydemir/DevProjects/eaGenel/eaDavetiye/bin/Debug/netcoreapp3.1/eaDavetiye.runtimeconfig.dev.json
+/Users/eaydemir/DevProjects/eaGenel/eaDavetiye/bin/Debug/netcoreapp3.1/eaDavetiye.dll
+/Users/eaydemir/DevProjects/eaGenel/eaDavetiye/bin/Debug/netcoreapp3.1/eaDavetiye.pdb
+/Users/eaydemir/DevProjects/eaGenel/eaDavetiye/obj/Debug/netcoreapp3.1/eaDavetiye.csprojAssemblyReference.cache
+/Users/eaydemir/DevProjects/eaGenel/eaDavetiye/obj/Debug/netcoreapp3.1/eaDavetiye.AssemblyInfoInputs.cache
+/Users/eaydemir/DevProjects/eaGenel/eaDavetiye/obj/Debug/netcoreapp3.1/eaDavetiye.AssemblyInfo.cs
+/Users/eaydemir/DevProjects/eaGenel/eaDavetiye/obj/Debug/netcoreapp3.1/eaDavetiye.dll
+/Users/eaydemir/DevProjects/eaGenel/eaDavetiye/obj/Debug/netcoreapp3.1/eaDavetiye.pdb
