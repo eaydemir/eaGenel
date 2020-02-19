@@ -12,7 +12,6 @@ namespace eaDavetiye
         public Program()
         {
             string empty = string.Empty;
-            //Console.SetBufferSize(80, 25);
 
             Console.ForegroundColor = ConsoleColor.Green;
             var t1 = new Thread(new ParameterizedThreadStart(Gonder));

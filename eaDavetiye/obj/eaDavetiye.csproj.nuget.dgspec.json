@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/eaydemir/DevProjects/eaGenel/eaDavetiye/eaDavetiye.csproj": {}
+    "/Users/eaydemir/Documents/GitHub/eaGenel/eaDavetiye/eaDavetiye.csproj": {}
   },
   "projects": {
-    "/Users/eaydemir/DevProjects/eaGenel/eaDavetiye/eaDavetiye.csproj": {
+    "/Users/eaydemir/Documents/GitHub/eaGenel/eaDavetiye/eaDavetiye.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/eaydemir/DevProjects/eaGenel/eaDavetiye/eaDavetiye.csproj",
+        "projectUniqueName": "/Users/eaydemir/Documents/GitHub/eaGenel/eaDavetiye/eaDavetiye.csproj",
         "projectName": "eaDavetiye",
-        "projectPath": "/Users/eaydemir/DevProjects/eaGenel/eaDavetiye/eaDavetiye.csproj",
+        "projectPath": "/Users/eaydemir/Documents/GitHub/eaGenel/eaDavetiye/eaDavetiye.csproj",
         "packagesPath": "/Users/eaydemir/.nuget/packages/",
-        "outputPath": "/Users/eaydemir/DevProjects/eaGenel/eaDavetiye/obj/",
+        "outputPath": "/Users/eaydemir/Documents/GitHub/eaGenel/eaDavetiye/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
